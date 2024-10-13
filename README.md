@@ -1,4 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=andrijajovanovic98&color=blue)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=andrijajovanovic98)
 
 Coding the future, breaking it, then fixing it. 💻
 
