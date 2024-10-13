@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=andrijajovanovic98&color=blue)
+
 Coding the future, breaking it, then fixing it. 💻
 
 [![ajovanov's 42 stats](https://badge.mediaplus.ma/levi/ajovanov?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
