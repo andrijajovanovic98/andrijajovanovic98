@@ -21,7 +21,4 @@ jobs:
           git config user.email "andrija.jovanovic1998@gmail.com"
           git add -A
           git commit -m "generated"
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push https://andrijajovanovic98:${{ secrets.GITHUB_TOKEN }}@github.com/andrijajovanovic98/andrijajovanovic98.git
