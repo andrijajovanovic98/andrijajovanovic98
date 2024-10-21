@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Ez szükséges a push műveletekhez
+  contents: write
 
 jobs:
   build:
