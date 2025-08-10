@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Andrija Jovanovic Banner" width="100%">
+  <img src="Banner.png" alt="Andrija Jovanovic Banner" width="20%">
 </p>
 
 
