@@ -12,7 +12,7 @@
 
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/levi/ajovanov?1337Badge=off&42Network=off&UM6P=off"
-         alt="ajovanov's 42 stats">
+         alt="ajovanov's 42 stats" width="100%>
   </a>
 
 </div>
