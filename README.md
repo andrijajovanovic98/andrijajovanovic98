@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Banner.png" alt="Andrija Jovanovic Banner" width="100%">
+</p>
+
+
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=andrijajovanovic98&color=blue" alt="Profile views">
