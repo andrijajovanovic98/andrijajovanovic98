@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner.png" alt="Andrija Jovanovic Banner" width="100%" height="80">
+</p>
 
 
 
