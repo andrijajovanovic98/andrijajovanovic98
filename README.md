@@ -5,7 +5,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=andrijajovanovic98&color=blue" alt="Profile views">
 
-  <h3>Coding the future, breaking it, then fixing it. 💻</h3>
+  <h3>Turning data into insights. And insights into action.</h3>
 
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/levi/ajovanov?1337Badge=off&42Network=off&UM6P=off"
